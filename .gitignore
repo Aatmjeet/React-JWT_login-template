@@ -1,0 +1,13 @@
+
+# dependencies
+/node_modules
+
+# ide files
+.idea
+
+# secrets
+.env
+
+# production
+/build
+
